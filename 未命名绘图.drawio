@@ -10,7 +10,7 @@
         <mxCell id="7" value="政策前陌拜" style="" parent="2" vertex="1">
           <mxGeometry x="60" y="110" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="意向管理" style="" parent="2" vertex="1">
+        <mxCell id="8" value="政策出台后联系（也是陌拜？）" style="" parent="2" vertex="1">
           <mxGeometry x="60" y="220" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="2" source="7" target="8" edge="1">
